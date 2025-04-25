@@ -26,7 +26,7 @@ This contract implements:
 - Custom `safeTransfer` and `safeTransferFrom` with low-level checks
 - Fallback function to accept ETH (`receive()`)
 
-✅ Code has been verified on [Etherscan](https://etherscan.io/address/0xYourContractAddressHere#code)  
+✅ Code has been verified on [Etherscan](https://etherscan.io/address/0x1d2db613a011336209510a93d82dafa8418fb3f7#code)  
 🔒 Security audit request submitted to [Secure3](https://secure3.io)
 
 ## 🚀 How It Works
