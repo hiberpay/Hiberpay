@@ -8,7 +8,7 @@ It allows users to lock a transfer and execute it after a defined unlock time â€
 - **Chain:** Ethereum Mainnet  
 - **Contract Name:** `HiberPay`  
 - **Contract Address:** `0xYourContractAddressHere`  
-- **Compiler Version:** `0.8.20`  
+- **Compiler Version:** `0.8.26`  
 - **License:** MIT  
 - **Audit Status:** [Pending/Completed by Secure3 or insert firm name]
 
