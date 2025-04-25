@@ -81,7 +81,6 @@ Frontend repo is currently closed-source. Only the smart contract is open source
 
 - ETH: Native (address `0x0000000000000000000000000000000000000000`)
 - USDT: `0xdAC17F958D2ee523a2206206994597C13D831ec7`
-- LINK: `0x514910771AF9Ca656af840dff83E8264EcF986CA`
 
 ## 🤝 Contributing
 
