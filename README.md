@@ -90,5 +90,3 @@ Currently closed for pull requests. For integrations or partnership:
 📬 **Contact:** [@HiberPay](https://twitter.com/HiberPay)
 
 ---
-
-> Built with ❤️ to help crypto sleep easier.
